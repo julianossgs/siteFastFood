@@ -1,0 +1,45 @@
+body{
+    background-color: #f8f9fa;
+}
+
+
+/* Seção Capa*/
+.capa{
+    background-color: #bc1823;
+}
+
+.capa h1,h3{
+    color: #fff;
+}
+
+
+/* Seção Serviços*/
+
+.servicos{
+    top: 8%;
+    left: 8%;
+}
+
+.servicos i{
+    color: red;
+}
+
+/* Seção clientes */
+.clientes img{
+    width: 100px;
+    height: 100px;
+}
+
+.clientes i{
+    color: yellow;
+}
+
+/* Seção contatos */
+.contatos{
+    background-color: #bc1823;
+}
+
+/* Seção rodape */
+.rodape i{
+    font-size: 22px;
+}
